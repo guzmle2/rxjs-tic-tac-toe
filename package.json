@@ -1,0 +1,19 @@
+{
+  "name": "rxjs-tic-tac-toe",
+  "version": "1.0.0",
+  "description": "",
+  "private": false,
+  "scripts": {
+    "start": "webpack-dev-server --open --mode=development"
+  },
+  "author": "Leonor Guzman",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.27.0",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.10"
+  },
+  "dependencies": {
+    "rxjs": "^6.4.0"
+  }
+}
